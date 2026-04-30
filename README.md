@@ -1,38 +1,59 @@
-# 🧮 Windows Calculator Replica ✦
-> *A beautifully crafted, fully functional Windows Calculator clone built with C# and Windows Forms.*
+# 🧮 WinCalc Desktop
+> **Advanced Windows Standard Calculator Replica**  
+> *A high-performance, professional-grade desktop application built with C# and WinForms.*
 
-![Preview]() <!-- Nanti tambahkan link screenshot aplikasi di sini -->
-
-## ✨ Features
-- **Aesthetic UI**: Carefully designed interface with soft pastel and sleek dark mode themes.
-- **Full Functionality**: Supports all standard calculator operations including memory functions (MC, MR, M+, M-, MS).
-- **Responsive Layout**: Accurately mapped to resemble the native Windows Standard Calculator layout.
-- **Unit Conversion**: Built-in unit conversion support (if implemented).
-
-## 🛠️ Tech Stack
-- **Language**: C#
-- **Framework**: .NET Framework / Windows Forms (WinForms)
-- **IDE**: Visual Studio 2022
-
-## 🚀 Getting Started
-
-### Prerequisites
-Make sure you have [Visual Studio](https://visualstudio.microsoft.com/) installed with the **.NET desktop development** workload.
-
-### Installation
-1. Clone the repository:
-   ```cmd
-   git clone https://github.com/username/kalkulator-windows.git
-   ```
-2. Open `kalkulator_windows.slnx` or `kalkulator_windows.sln` in Visual Studio.
-3. Build the solution (`Ctrl + Shift + B`).
-4. Run the application (`F5`).
-
-## 🎨 Aesthetics & Design
-This project was meticulously designed with a focus on UI/UX, prioritizing readable typography, high-contrast layouts for accessibility, and a modern, premium aesthetic suitable for academic or portfolio presentation.
-
-## 📝 License
-This project is for academic and portfolio purposes.
+<p align="left">
+  <img src="https://img.shields.io/badge/Language-C%23-blue?style=for-the-badge&logo=csharp" alt="C# Badge">
+  <img src="https://img.shields.io/badge/Framework-.NET%20Framework-blueviolet?style=for-the-badge&logo=dotnet" alt=".NET Badge">
+  <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows" alt="Windows Badge">
+</p>
 
 ---
-*Built with ❤️ by [Your Name/Username]*
+
+## 🌟 Overview
+**WinCalc Desktop** is a robust implementation of the classic Windows Standard Calculator. This project focuses on delivering a seamless user experience, combining a modern design philosophy with the precise mathematical logic required for daily calculations.
+
+## 🚀 Core Features
+- **Precise Arithmetic**: Handles addition, subtraction, multiplication, and division with high accuracy.
+- **Memory Management**: Full support for memory operations (`MC`, `MR`, `M+`, `M-`, `MS`).
+- **Modern UI/UX**: Sleek, high-contrast interface designed for maximum readability and efficiency.
+- **Responsive Controls**: Optimized for both mouse and keyboard interactions.
+
+## 🛠️ Technical Specifications
+
+| Component | Technology |
+| :--- | :--- |
+| **Language** | C# (C-Sharp) |
+| **UI Framework** | Windows Forms (WinForms) |
+| **Runtime** | .NET Framework |
+| **Architecture** | Event-Driven Programming |
+| **IDE** | Visual Studio 2022 |
+
+## 📸 Preview
+*(Insert screenshot of your application here to make it more interesting!)*
+
+## 📦 Installation & Usage
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/ayuryntii/WinCalc-Desktop.git
+   ```
+
+2. **Open Solution**
+   Launch `kalkulator_windows.slnx` or `.sln` in **Visual Studio 2022**.
+
+3. **Build & Execute**
+   Press `F5` to compile and run the application in Debug mode.
+
+---
+
+## 🏗️ Design Principles
+This project adheres to **Professional Software Development** standards:
+- **Clean Code**: Organized structure for easy maintenance and scalability.
+- **User-Centric Design**: Focus on accessibility and intuitive navigation.
+- **Performance**: Lightweight and fast startup times.
+
+---
+<p align="center">
+  Developed with ❤️ by <b>Ayu Rianti</b>
+</p>
