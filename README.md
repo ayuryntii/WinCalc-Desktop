@@ -30,7 +30,8 @@
 | **IDE** | Visual Studio 2022 |
 
 ## 📸 Preview
-*(Insert screenshot of your application here to make it more interesting!)*
+<img width="536" height="1016" alt="image" src="https://github.com/user-attachments/assets/f2e18367-57cc-45b1-b9ab-9347496cf83e" />
+
 
 ## 📦 Installation & Usage
 
